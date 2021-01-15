@@ -1,6 +1,6 @@
 # Description
 
-This is a sample implementation of Time-sensitive and Topic-specific Influencer Detection(TTID) Model.
+This is a sample implementation of Time-sensitive and Topic-specific Influencer Measurement(TTIM) Model.
 
 ## Dependencies
 Tensorflow
